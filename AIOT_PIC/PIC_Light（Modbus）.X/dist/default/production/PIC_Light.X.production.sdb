@@ -1,0 +1,443 @@
+[p GLOBOPT AUTOSTATIC LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F23K22 ]
+[d frameptr 4065 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"54 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 3 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 3 0 ]
+"19 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 3 0 ]
+"10 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 3 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 3 0 ]
+"11 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 3 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 3 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\Umul64.c
+[v ___omul __omul `(ul  1 e 4 0 ]
+"16 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\CD4021.c
+[v _CD4021Driver CD4021Driver `(v  1 e 1 0 ]
+"45
+[v _CD4021Read CD4021Read `(uc  1 e 1 0 ]
+"21 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\CD4094.c
+[v _CD4094Driver CD4094Driver `(v  1 e 1 0 ]
+"50
+[v _CD4094Write8 CD4094Write8 `(v  1 e 1 0 ]
+"53 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"81
+[v _DRIVER DRIVER `(v  1 e 1 0 ]
+"66 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/eusart1.c
+[v _EUSART1_Initialize EUSART1_Initialize `(v  1 e 1 0 ]
+"144
+[v _EUSART1_DefaultFramingErrorHandler EUSART1_DefaultFramingErrorHandler `(v  1 e 1 0 ]
+"146
+[v _EUSART1_DefaultOverrunErrorHandler EUSART1_DefaultOverrunErrorHandler `(v  1 e 1 0 ]
+"154
+[v _EUSART1_DefaultErrorHandler EUSART1_DefaultErrorHandler `(v  1 e 1 0 ]
+"157
+[v _EUSART1_SetFramingErrorHandler EUSART1_SetFramingErrorHandler `(v  1 e 1 0 ]
+"161
+[v _EUSART1_SetOverrunErrorHandler EUSART1_SetOverrunErrorHandler `(v  1 e 1 0 ]
+"165
+[v _EUSART1_SetErrorHandler EUSART1_SetErrorHandler `(v  1 e 1 0 ]
+"52 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_Initialize INTERRUPT_Initialize `(v  1 e 1 0 ]
+"58
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `IIH(v  1 e 1 0 ]
+"50 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+"60
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+"55 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+"68 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/tmr0.c
+[v _TMR0_Initialize TMR0_Initialize `(v  1 e 1 0 ]
+"130
+[v _TMR0_ISR TMR0_ISR `(v  1 e 1 0 ]
+"148
+[v _TMR0_SetInterruptHandler TMR0_SetInterruptHandler `(v  1 e 1 0 ]
+"152
+[v _TMR0_DefaultInterruptHandler TMR0_DefaultInterruptHandler `(v  1 e 1 0 ]
+"52 C:\Program Files (x86)\Microchip\xc8\v2.05\pic\include\pic18f23k22.h
+[v _ANSELA ANSELA `VEuc  1 e 1 @3896 ]
+"97
+[v _ANSELB ANSELB `VEuc  1 e 1 @3897 ]
+"147
+[v _ANSELC ANSELC `VEuc  1 e 1 @3898 ]
+"2613
+[v _WPUB WPUB `VEuc  1 e 1 @3937 ]
+[s S473 . 1 `uc 1 RB0 1 0 :1:0 
+`uc 1 RB1 1 0 :1:1 
+`uc 1 RB2 1 0 :1:2 
+`uc 1 RB3 1 0 :1:3 
+`uc 1 RB4 1 0 :1:4 
+`uc 1 RB5 1 0 :1:5 
+`uc 1 RB6 1 0 :1:6 
+`uc 1 RB7 1 0 :1:7 
+]
+"6553
+[s S482 . 1 `uc 1 INT0 1 0 :1:0 
+`uc 1 INT1 1 0 :1:1 
+`uc 1 INT2 1 0 :1:2 
+`uc 1 CCP2 1 0 :1:3 
+`uc 1 KBI0 1 0 :1:4 
+`uc 1 KBI1 1 0 :1:5 
+`uc 1 KBI2 1 0 :1:6 
+`uc 1 KBI3 1 0 :1:7 
+]
+[s S491 . 1 `uc 1 AN12 1 0 :1:0 
+`uc 1 AN10 1 0 :1:1 
+`uc 1 AN8 1 0 :1:2 
+`uc 1 AN9 1 0 :1:3 
+`uc 1 AN11 1 0 :1:4 
+`uc 1 AN13 1 0 :1:5 
+`uc 1 TX2 1 0 :1:6 
+`uc 1 RX2 1 0 :1:7 
+]
+[s S500 . 1 `uc 1 FLT0 1 0 :1:0 
+`uc 1 C12IN3M 1 0 :1:1 
+`uc 1 P1B 1 0 :1:2 
+`uc 1 C12IN2M 1 0 :1:3 
+`uc 1 T5G 1 0 :1:4 
+`uc 1 T1G 1 0 :1:5 
+`uc 1 CK2 1 0 :1:6 
+`uc 1 DT2 1 0 :1:7 
+]
+[s S509 . 1 `uc 1 SRI 1 0 :1:0 
+`uc 1 C12IN3N 1 0 :1:1 
+`uc 1 CTED1 1 0 :1:2 
+`uc 1 C12IN2N 1 0 :1:3 
+`uc 1 P1D 1 0 :1:4 
+`uc 1 CCP3 1 0 :1:5 
+`uc 1 PGC 1 0 :1:6 
+`uc 1 PGD 1 0 :1:7 
+]
+[s S518 . 1 `uc 1 CCP4 1 0 :1:0 
+`uc 1 P1C 1 0 :1:1 
+`uc 1 SDA2 1 0 :1:2 
+`uc 1 CTED2 1 0 :1:3 
+`uc 1 . 1 0 :1:4 
+`uc 1 T3CKI 1 0 :1:5 
+]
+[s S525 . 1 `uc 1 SS2 1 0 :1:0 
+`uc 1 SCL2 1 0 :1:1 
+`uc 1 SDI2 1 0 :1:2 
+`uc 1 P2A 1 0 :1:3 
+`uc 1 . 1 0 :1:4 
+`uc 1 P3A 1 0 :1:5 
+]
+[s S532 . 1 `uc 1 NOT_SS2 1 0 :1:0 
+]
+[s S534 . 1 `uc 1 nSS2 1 0 :1:0 
+`uc 1 SCK2 1 0 :1:1 
+`uc 1 . 1 0 :1:2 
+`uc 1 SDO2 1 0 :1:3 
+`uc 1 . 1 0 :1:4 
+`uc 1 P2B 1 0 :1:5 
+]
+[s S541 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 CCP2_PA2 1 0 :1:3 
+]
+[u S544 . 1 `S473 1 . 1 0 `S482 1 . 1 0 `S491 1 . 1 0 `S500 1 . 1 0 `S509 1 . 1 0 `S518 1 . 1 0 `S525 1 . 1 0 `S532 1 . 1 0 `S534 1 . 1 0 `S541 1 . 1 0 ]
+[v _PORTBbits PORTBbits `VES544  1 e 1 @3969 ]
+"7244
+[v _LATA LATA `VEuc  1 e 1 @3977 ]
+[s S648 . 1 `uc 1 LATA0 1 0 :1:0 
+`uc 1 LATA1 1 0 :1:1 
+`uc 1 LATA2 1 0 :1:2 
+`uc 1 LATA3 1 0 :1:3 
+`uc 1 LATA4 1 0 :1:4 
+`uc 1 LATA5 1 0 :1:5 
+`uc 1 LATA6 1 0 :1:6 
+`uc 1 LATA7 1 0 :1:7 
+]
+"7271
+[s S657 . 1 `uc 1 LA0 1 0 :1:0 
+`uc 1 LA1 1 0 :1:1 
+`uc 1 LA2 1 0 :1:2 
+`uc 1 LA3 1 0 :1:3 
+`uc 1 LA4 1 0 :1:4 
+`uc 1 LA5 1 0 :1:5 
+`uc 1 LA6 1 0 :1:6 
+`uc 1 LA7 1 0 :1:7 
+]
+[u S666 . 1 `S648 1 . 1 0 `S657 1 . 1 0 ]
+[v _LATAbits LATAbits `VES666  1 e 1 @3977 ]
+"7356
+[v _LATB LATB `VEuc  1 e 1 @3978 ]
+[s S429 . 1 `uc 1 LATB0 1 0 :1:0 
+`uc 1 LATB1 1 0 :1:1 
+`uc 1 LATB2 1 0 :1:2 
+`uc 1 LATB3 1 0 :1:3 
+`uc 1 LATB4 1 0 :1:4 
+`uc 1 LATB5 1 0 :1:5 
+`uc 1 LATB6 1 0 :1:6 
+`uc 1 LATB7 1 0 :1:7 
+]
+"7383
+[s S438 . 1 `uc 1 LB0 1 0 :1:0 
+`uc 1 LB1 1 0 :1:1 
+`uc 1 LB2 1 0 :1:2 
+`uc 1 LB3 1 0 :1:3 
+`uc 1 LB4 1 0 :1:4 
+`uc 1 LB5 1 0 :1:5 
+`uc 1 LB6 1 0 :1:6 
+`uc 1 LB7 1 0 :1:7 
+]
+[u S447 . 1 `S429 1 . 1 0 `S438 1 . 1 0 ]
+[v _LATBbits LATBbits `VES447  1 e 1 @3978 ]
+"7468
+[v _LATC LATC `VEuc  1 e 1 @3979 ]
+"7580
+[v _TRISA TRISA `VEuc  1 e 1 @3986 ]
+"7802
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"8024
+[v _TRISC TRISC `VEuc  1 e 1 @3988 ]
+"8267
+[v _OSCTUNE OSCTUNE `VEuc  1 e 1 @3995 ]
+"9548
+[v _RCSTA1 RCSTA1 `VEuc  1 e 1 @4011 ]
+"10004
+[v _TXSTA1 TXSTA1 `VEuc  1 e 1 @4012 ]
+"10535
+[v _SPBRG1 SPBRG1 `VEuc  1 e 1 @4015 ]
+"10613
+[v _SPBRGH1 SPBRGH1 `VEuc  1 e 1 @4016 ]
+"11577
+[v _BAUDCON1 BAUDCON1 `VEuc  1 e 1 @4024 ]
+[s S148 . 1 `uc 1 NOT_BOR 1 0 :1:0 
+]
+"15040
+[s S150 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 NOT_POR 1 0 :1:1 
+]
+[s S153 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 NOT_PD 1 0 :1:2 
+]
+[s S156 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 NOT_TO 1 0 :1:3 
+]
+[s S159 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 NOT_RI 1 0 :1:4 
+]
+[s S162 . 1 `uc 1 nBOR 1 0 :1:0 
+`uc 1 nPOR 1 0 :1:1 
+`uc 1 nPD 1 0 :1:2 
+`uc 1 nTO 1 0 :1:3 
+`uc 1 nRI 1 0 :1:4 
+`uc 1 . 1 0 :1:5 
+`uc 1 SBOREN 1 0 :1:6 
+`uc 1 IPEN 1 0 :1:7 
+]
+[s S171 . 1 `uc 1 BOR 1 0 :1:0 
+`uc 1 POR 1 0 :1:1 
+`uc 1 PD 1 0 :1:2 
+`uc 1 TO 1 0 :1:3 
+`uc 1 RI 1 0 :1:4 
+]
+[u S177 . 1 `S148 1 . 1 0 `S150 1 . 1 0 `S153 1 . 1 0 `S156 1 . 1 0 `S159 1 . 1 0 `S162 1 . 1 0 `S171 1 . 1 0 ]
+[v _RCONbits RCONbits `VES177  1 e 1 @4048 ]
+"15158
+[v _OSCCON2 OSCCON2 `VEuc  1 e 1 @4050 ]
+"15215
+[v _OSCCON OSCCON `VEuc  1 e 1 @4051 ]
+"15298
+[v _T0CON T0CON `VEuc  1 e 1 @4053 ]
+"15375
+[v _TMR0L TMR0L `VEuc  1 e 1 @4054 ]
+"15395
+[v _TMR0H TMR0H `VEuc  1 e 1 @4055 ]
+[s S289 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 NOT_RBPU 1 0 :1:7 
+]
+"16050
+[s S292 . 1 `uc 1 RBIP 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 TMR0IP 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 INTEDG2 1 0 :1:4 
+`uc 1 INTEDG1 1 0 :1:5 
+`uc 1 INTEDG0 1 0 :1:6 
+`uc 1 nRBPU 1 0 :1:7 
+]
+[s S301 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 RBPU 1 0 :1:7 
+]
+[u S304 . 1 `S289 1 . 1 0 `S292 1 . 1 0 `S301 1 . 1 0 ]
+[v _INTCON2bits INTCON2bits `VES304  1 e 1 @4081 ]
+[s S27 . 1 `uc 1 RBIF 1 0 :1:0 
+`uc 1 INT0IF 1 0 :1:1 
+`uc 1 TMR0IF 1 0 :1:2 
+`uc 1 RBIE 1 0 :1:3 
+`uc 1 INT0IE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+`uc 1 PEIE_GIEL 1 0 :1:6 
+`uc 1 GIE_GIEH 1 0 :1:7 
+]
+"16127
+[s S36 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 INT0F 1 0 :1:1 
+`uc 1 T0IF 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 INT0E 1 0 :1:4 
+`uc 1 T0IE 1 0 :1:5 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+[s S45 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 GIEL 1 0 :1:6 
+`uc 1 GIEH 1 0 :1:7 
+]
+[u S49 . 1 `S27 1 . 1 0 `S36 1 . 1 0 `S45 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES49  1 e 1 @4082 ]
+"13 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\CD4021.c
+[v _CD4021Buffer CD4021Buffer `uc  1 s 1 CD4021Buffer ]
+"20 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\CD4094.c
+[v _CD4094Buffer CD4094Buffer `uc  1 e 1 0 ]
+[s S703 . 1 `uc 1 perr 1 0 :1:0 
+`uc 1 ferr 1 0 :1:1 
+`uc 1 oerr 1 0 :1:2 
+`uc 1 reserved 1 0 :5:3 
+]
+"52 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/eusart1.c
+[u S708 . 1 `S703 1 . 1 0 `uc 1 status 1 0 ]
+[v _eusart1RxLastError eusart1RxLastError `VES708  1 e 1 0 ]
+"58
+[v _EUSART1_FramingErrorHandler EUSART1_FramingErrorHandler `*.37(v  1 e 2 0 ]
+"59
+[v _EUSART1_OverrunErrorHandler EUSART1_OverrunErrorHandler `*.37(v  1 e 2 0 ]
+"60
+[v _EUSART1_ErrorHandler EUSART1_ErrorHandler `*.37(v  1 e 2 0 ]
+"58 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/tmr0.c
+[v _TMR0_InterruptHandler TMR0_InterruptHandler `*.37(v  1 e 2 0 ]
+"60
+[v _timer0ReloadVal timer0ReloadVal `VEuc  1 e 1 0 ]
+"61
+[v _timecount timecount `ul  1 e 4 0 ]
+"53 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"79
+} 0
+"50 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+{
+"58
+} 0
+"68 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/tmr0.c
+[v _TMR0_Initialize TMR0_Initialize `(v  1 e 1 0 ]
+{
+"93
+} 0
+"148
+[v _TMR0_SetInterruptHandler TMR0_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v TMR0_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 2 ]
+"150
+} 0
+"55 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+{
+"91
+} 0
+"60 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/mcc.c
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+{
+"68
+} 0
+"52 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_Initialize INTERRUPT_Initialize `(v  1 e 1 0 ]
+{
+"56
+} 0
+"66 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/eusart1.c
+[v _EUSART1_Initialize EUSART1_Initialize `(v  1 e 1 0 ]
+{
+"92
+} 0
+"161
+[v _EUSART1_SetOverrunErrorHandler EUSART1_SetOverrunErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART1_SetOverrunErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 2 ]
+"163
+} 0
+"157
+[v _EUSART1_SetFramingErrorHandler EUSART1_SetFramingErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART1_SetFramingErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 2 ]
+"159
+} 0
+"165
+[v _EUSART1_SetErrorHandler EUSART1_SetErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART1_SetErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 2 ]
+"167
+} 0
+"81 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\main.c
+[v _DRIVER DRIVER `(v  1 e 1 0 ]
+{
+"84
+[v DRIVER@CD4021DriveTimeCounter CD4021DriveTimeCounter `ul  1 a 4 11 ]
+"85
+[v DRIVER@data data `uc  1 a 1 15 ]
+"96
+} 0
+"50 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\CD4094.c
+[v _CD4094Write8 CD4094Write8 `(v  1 e 1 0 ]
+{
+[v CD4094Write8@Buffer Buffer `uc  1 a 1 wreg ]
+[v CD4094Write8@Buffer Buffer `uc  1 a 1 wreg ]
+"52
+[v CD4094Write8@Buffer Buffer `uc  1 a 1 2 ]
+"54
+} 0
+"21
+[v _CD4094Driver CD4094Driver `(v  1 e 1 0 ]
+{
+"32
+[v CD4094Driver@i i `i  1 a 2 4 ]
+"23
+[v CD4094Driver@temp temp `uc  1 a 1 3 ]
+"49
+} 0
+"45 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\CD4021.c
+[v _CD4021Read CD4021Read `(uc  1 e 1 0 ]
+{
+"47
+} 0
+"16
+[v _CD4021Driver CD4021Driver `(v  1 e 1 0 ]
+{
+"19
+[v CD4021Driver@i i `i  1 a 2 5 ]
+"18
+[v CD4021Driver@temp temp `i  1 a 2 3 ]
+"44
+} 0
+"58 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `IIH(v  1 e 1 0 ]
+{
+"69
+} 0
+"130 C:\Users\user\Desktop\AIOT_PIC\PIC_Light.X\mcc_generated_files/tmr0.c
+[v _TMR0_ISR TMR0_ISR `(v  1 e 1 0 ]
+{
+"145
+} 0
+"152
+[v _TMR0_DefaultInterruptHandler TMR0_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"156
+} 0

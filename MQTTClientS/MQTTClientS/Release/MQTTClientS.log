@@ -1,0 +1,30 @@
+﻿  pch.cpp
+  dbfile.cpp
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\dbfile.cpp(177): warning C4101: 'fdn': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\dbfile.cpp(254): warning C4101: 's2': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\dbfile.cpp(254): warning C4101: 's1': 未參考的區域變數
+  jstring.cpp
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\jstring.cpp(34): warning C4101: 'k': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\jstring.cpp(33): warning C4101: 'sout': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\jstring.cpp(31): warning C4101: 't': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\jstring.cpp(217): warning C4101: 'v': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\jstring.cpp(313): warning C4018: '>=': signed/unsigned 不相符
+  MQTTClientS.cpp
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(124): warning C4101: 'p1': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(125): warning C4101: 'ii': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(124): warning C4101: 'p2': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(540): warning C4838: 從 'unsigned int' 到 'char' 的轉換必須是縮小轉換
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(600): warning C4101: 's': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(597): warning C4101: 'ii': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(600): warning C4101: 'cctime': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(694): warning C4101: 's': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(695): warning C4101: 'ii': 未參考的區域變數
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\mqttclients.cpp(694): warning C4101: 'cctime': 未參考的區域變數
+  MsgQ.cpp
+  readconfig.cpp
+  typeFuns.cpp
+c:\users\jcc\desktop\智慧物聯網系統設計實務\mqttclients\mqttclients\typefuns.cpp(353): warning C4838: 從 'unsigned int' 到 'char' 的轉換必須是縮小轉換
+  正在產生程式碼
+  All 341 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  MQTTClientS.vcxproj -> C:\Users\jcc\Desktop\智慧物聯網系統設計實務\MQTTClientS\Release\MQTTClientS.exe

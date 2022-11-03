@@ -1,0 +1,14 @@
+140.117.156.44
+test11
+[test11]
+off={"switch":false}
+on={"switch":true}
+Init={"modbus moniter":[{"slave":4,"function":4,"start":3,"length":1}]}
+<4#4#3#1=Temp>
+AlarmOn={"modbus request":[{"slave":4,"function":6,"start":1,"length":1,"in":[0]}]}
+AlarmOn={"modbus request":[{"slave":4,"function":6,"start":16,"length":1,"in":[3]}]}
+AlarmOff={"modbus request":[{"slave":4,"function":6,"start":0,"length":1,"in":[800]}]}
+AlarmOff={"modbus request":[{"slave":4,"function":6,"start":16,"length":1,"in":[2]}]}
+SetHTemp={"modbus request":[{"slave":4,"function":6,"start":0,"length":1,"in":[<>]}]}
+<switch=switch>
+<switch=S:swState>

@@ -1,0 +1,3 @@
+<%
+response.redirect "./entry.asp" 
+%>
